@@ -1,6 +1,6 @@
 os
 cv2
-numpy as np
+numpy 
 xml.etree.ElementTree 
 tensorflow 
 pillow 
